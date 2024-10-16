@@ -1,7 +1,7 @@
 > ###### 74 72 79 21 20 53 77 69 66 74
 ### Hello! 101! 👋
 
-I'm an iOS Engineer.
+I'm an iOS Developer.
 <br>
 Hungry to knowledge and always trying my best to bring this idea to life 🤩
 <br>
